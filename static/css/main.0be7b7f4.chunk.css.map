@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,UAAY,CACZ,qBAAsB,CACtB,iBACF,CAEA,MACE,gBACF,CAEA,SACE,4BACF","file":"main.0be7b7f4.chunk.css","sourcesContent":[".btn {\n  color: white;\n  background-color: #222;\n  border-radius: 4px;\n}\n\n.ml20 {\n  margin-left: 20px;\n}\n\n.striked {\n  text-decoration: line-through;\n}\n"]}
